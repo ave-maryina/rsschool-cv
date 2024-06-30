@@ -1,4 +1,8 @@
-**Maryna**  **Skarzhynskaya**
+# Maryna Skarzhynskaya
+
+![Image](https://photo.png)
+
+***
 
 
 Phone +375296975072
@@ -11,6 +15,8 @@ Discord nickname Maryna Skar (@ave-maryina)
 
 
 Email mariettas96@mail.ru
+
+***
 
 **Education**
 
