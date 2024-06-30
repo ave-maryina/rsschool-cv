@@ -1,6 +1,6 @@
 # Maryna Skarzhynskaya
 
-![Image](https://photo.png)
+![Image](https://github.com/ave-maryina/rsschool-cv/blob/gh-pages/photo.png)
 
 ***
 
