@@ -7,7 +7,7 @@
 
 Phone +375296975072
 
-Country Belarus
+Country  Belarus
 
 City Minsk
 
