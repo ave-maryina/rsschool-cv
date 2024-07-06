@@ -1,8 +1,6 @@
 # Maryna Skarzhynskaya
 
 ![Image](https://github.com/ave-maryina/rsschool-cv/blob/gh-pages/photo.png)
-![Image](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/cv/rs-school-logo.svg)
-
 
 ***
 
